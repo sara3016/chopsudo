@@ -1,4 +1,4 @@
-## CHOPSUDO DOING FOO-VOODOO @DEV2DEPLOY
+## AI ENGINEERING FOO-VOODOO OF ALL THINGS AI @DEV2DEPLOY
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopsudo&show_icons=true&theme=nightowl)
 <!--
 **chopsudo/chopsudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
